@@ -1,0 +1,5 @@
+,names,raw_predictions
+0,processed_code,if ( plen < 0 ) return 0 ;
+1,processed_code,"memset ( ids , 0 , sizeof ( ids ) ) ;"
+2,processed_code,"if ( plen < 0 ) return 0 ; if ( plen == S_HELLO_LEN && memcmp ( data , ""sorbo"" , 5 ) == 0 )"
+3,processed_code,assert ( plen <= ( int ) sizeof ( buf ) ) ;
