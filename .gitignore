@@ -7,7 +7,7 @@
 /dataSources/
 /dataSources.local.xml
 
-/Frontend/sophgen/node_modules/
+/Frontend/sophgen/node_modules/*
 /Frontend/sophgen/.next
 /Frontend/sophgen/.idea
 /Frontend/sophgen/.env
